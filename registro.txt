@@ -1,1 +1,5 @@
 Commit 1: Inicio
+
+
+
+Cambio realizado de forma externa al repositorio local de javi.
